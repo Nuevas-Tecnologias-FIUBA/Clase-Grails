@@ -5,7 +5,7 @@ Este repositorio contiene los contenidos y algunos recursos vinculados con la cl
 
 ## Recursos
 
-* Sitio oficial Grails: [http://www.grails.com] (http://www.grails.com)
+* Sitio oficial de Grails: [http://www.grails.com] (http://www.grails.com)
 * Sitio de github de la materia: [http://nuevas-tecnologias-fiuba.github.com](http://nuevas-tecnologias-fiuba.github.com)
 
 
